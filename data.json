@@ -1,0 +1,31 @@
+{
+    "resultcode": "200",
+    "reason": "Success",
+    "result": {
+        "data": [{
+        	"id":1,
+        	"title":"天若有情",
+        	"singer":"A-Lin",
+        	"lyrics":"",
+        	"src":"./src/assets/mp3/1.mp3"
+        },{
+        	"id":2,
+        	"title":"某事某刻",
+        	"singer":"鹿晗",
+        	"lyrics":"",
+        	"src":"./src/assets/mp3/music.mp3"
+        },{
+        	"id":3,
+        	"title":"云天外",
+        	"singer":"杜淳",
+        	"lyrics":"",
+        	"src":"./src/assets/mp3/1.mp3"
+        },,{
+        	"id":4,
+        	"title":"锦绣未央",
+        	"singer":"陈都灵",
+        	"lyrics":"",
+        	"src":"./src/assets/mp3/music.mp3"
+        }]
+    }
+}
